@@ -1,22 +1,15 @@
-import logo from './logo.svg';
+import logo from './gpt.png';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
+        <img src={logo} className="App-logo-test" alt="logo" />
+        <p style={{color: "black"}}>
+          AI Grammar Checker
         </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+          <span style={{fontSize: '12px'}}>Version 0.1.2(Build 3)</span>
       </header>
     </div>
   );
