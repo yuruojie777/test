@@ -42,10 +42,10 @@ export const Privacy = () => {
 
     return (
         <div style={containerStyle}>
-            <h1 style={headerStyle}>AI Grammar Checker - User Privacy Policy</h1>
+            <h1 style={headerStyle}>VocabAI - User Privacy Policy</h1>
             <p style={dateStyle}>Effective Date: 9 September 2023</p>
 
-            <p>Welcome to AI Grammar Checker! We are committed to protecting your privacy and ensuring the security of your personal information. Please take a moment to review our User Privacy Policy to understand how we handle your data.</p>
+            <p>Welcome to VocabAI! We are committed to protecting your privacy and ensuring the security of your personal information. Please take a moment to review our User Privacy Policy to understand how we handle your data.</p>
 
             <h2 style={subHeaderStyle}>1. Scope of Application</h2>
             <ul style={listStyle}>
@@ -78,12 +78,12 @@ export const Privacy = () => {
             <ul style={listStyle}>
                 <li style={listItemStyle}>(a) If we decide to update our privacy policy, we will notify you through this policy and on our website to keep you informed about how we handle your data.</li>
                 <li style={listItemStyle}>(b) We reserve the right to amend this policy at any time, so please check it periodically. If there are significant changes, we will provide notice through our website.</li>
-                <li style={listItemStyle}>(c) We encourage you to use AI Grammar Checker responsibly and share your content only as needed. If you suspect any unauthorized access or misuse of your account, please contact our customer support immediately so that we can take appropriate action.</li>
+                <li style={listItemStyle}>(c) We encourage you to use VocabAI responsibly and share your content only as needed. If you suspect any unauthorized access or misuse of your account, please contact our customer support immediately so that we can take appropriate action.</li>
             </ul>
 
-            <p>By using AI Grammar Checker, you agree to the terms outlined in this User Privacy Policy. This policy is an integral part of our Application Service Use Agreement.</p>
+            <p>By using VocabAI, you agree to the terms outlined in this User Privacy Policy. This policy is an integral part of our Application Service Use Agreement.</p>
 
-            <p style={noticeStyle}>Thank you for trusting AI Grammar Checker with your personal information. If you have any questions or concerns, please do not hesitate to contact us.</p>
+            <p style={noticeStyle}>Thank you for trusting VocabAI with your personal information. If you have any questions or concerns, please do not hesitate to contact us.</p>
 
             <p style={dateStyle}>Last Updated: 9 September 2023</p>
         </div>
