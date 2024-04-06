@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo-test" alt="logo" />
         <p style={{color: "black"}}>
-          AI Grammar Checker
+          VocabAI By Nutpie
         </p>
           <span style={{fontSize: '12px'}}>Version 0.1.2(Build 3)</span>
       </header>
